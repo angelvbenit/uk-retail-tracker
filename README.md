@@ -84,6 +84,36 @@ Scores above 75 are Critical.
 
 ![UK Supply Chain Dashboard Demo](assets/dashboard_demo.gif)
 
+![Dashboard Demo](assets/dashboard_demo.gif)
+
+> Full interactive dashboard built in Power BI Desktop.
+> Source file: `uk_supply_chain_dashboard.pbix` — download and open locally.
+
+---
+
+## Exploratory Analysis Charts
+
+### 1. Disruption Score Timeline (2015–2024)
+![Disruption Timeline](data/exports/eda_01_disruption_timeline.png)
+
+### 2. Signal Component Breakdown
+![Signal Components](data/exports/eda_02_signal_components.png)
+
+### 3. Average Disruption Score by Era
+![Era Comparison](data/exports/eda_03_era_comparison.png)
+
+### 4. Monthly Disruption Heatmap
+![Monthly Heatmap](data/exports/eda_04_monthly_heatmap.png)
+
+### 5. Food CPI Inflation vs Food Import Volumes
+![CPI vs Imports](data/exports/eda_05_cpi_vs_imports.png)
+
+### 6. Disruption Score by Supply Chain Category
+![Category Scores](data/exports/eda_06_category_scores.png)
+
+### 7. ARIMA Retail Volume Forecast
+![ARIMA Forecast](data/exports/eda_07_arima_forecast.png)
+
 ### Page 1 — Executive Overview
 - 6 KPI cards: avg score, peak score, high risk months, food inflation,
   food imports, HGV baseline comparison
