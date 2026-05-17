@@ -34,9 +34,10 @@ This project builds that view.
 | Peak disruption month | December 2022                          |
 | High or Critical disruption months | 97 out of 120 (40.4%)                  |
 | Peak food inflation (YoY) | 9.97% — December 2022                  |
-| Average food inflation (YoY) | 1.66%                                  |
-| HGV licensed vehicles 2019 avg | 515,000                                |
-| HGV licensed vehicles 2021 avg | 515,000 (masking within-year shortage) |
+| Average food inflation (YoY) |	1.66% |
+| ARIMA forecast accuracy (MAPE) |	2.94% — Excellent |
+| ARIMA test period	March 2023 | October 2024 |
+| HGV licensed vehicles 2019 avg | 	515,000 |
 
 **December 2022** was the single worst month in the dataset — the confluence
 of peak food inflation (9.97% YoY), post-Brexit import disruption, energy
