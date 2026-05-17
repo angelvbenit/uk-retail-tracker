@@ -82,8 +82,6 @@ Scores above 75 are Critical.
 
 ## Dashboard
 
-![UK Supply Chain Dashboard Demo](assets/dashboard_demo.gif)
-
 ![Dashboard Demo](assets/dashboard_demo.gif)
 
 > Full interactive dashboard built in Power BI Desktop.
