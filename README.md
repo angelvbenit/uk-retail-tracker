@@ -32,7 +32,7 @@ This project builds that view.
 | Average disruption score | 51.33 / 100                            |
 | Peak disruption score | 76.30 / 100                            |
 | Peak disruption month | December 2022                          |
-| High or Critical disruption months | 97 out of 120 (40.4%)                  |
+| High or Critical disruption months | 97 out of 120 (80.8%)                  |
 | Peak food inflation (YoY) | 9.97% — December 2022                  |
 | Average food inflation (YoY) |	1.66% |
 | ARIMA forecast accuracy (MAPE) |	2.94% — Excellent |
