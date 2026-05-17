@@ -25,17 +25,17 @@ This project builds that view.
 
 ## Key Findings
 
-| Metric | Value |
-|--------|-------|
-| Analysis period | January 2015 – December 2024 |
-| Total months analysed | 240 |
-| Average disruption score | 51.33 / 100 |
-| Peak disruption score | 76.30 / 100 |
-| Peak disruption month | December 2022 |
-| High or Critical disruption months | 97 out of 240 (40.4%) |
-| Peak food inflation (YoY) | 9.97% — December 2022 |
-| Average food inflation (YoY) | 1.66% |
-| HGV licensed vehicles 2019 avg | 515,000 |
+| Metric | Value                                  |
+|--------|----------------------------------------|
+| Analysis period | January 2015 – December 2024           |
+| Total months analysed | 120                                    |
+| Average disruption score | 51.33 / 100                            |
+| Peak disruption score | 76.30 / 100                            |
+| Peak disruption month | December 2022                          |
+| High or Critical disruption months | 97 out of 120 (40.4%)                  |
+| Peak food inflation (YoY) | 9.97% — December 2022                  |
+| Average food inflation (YoY) | 1.66%                                  |
+| HGV licensed vehicles 2019 avg | 515,000                                |
 | HGV licensed vehicles 2021 avg | 515,000 (masking within-year shortage) |
 
 **December 2022** was the single worst month in the dataset — the confluence
