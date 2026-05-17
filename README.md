@@ -216,6 +216,10 @@ cp .env.example .env
 python scripts/01_fetch_ons_data.py
 python scripts/02_fetch_hmrc_data.py
 python scripts/03_fetch_cpi_data.py
+# Script 04 requires a manual download first:
+# Go to: https://www.gov.uk/government/statistical-data-sets/tsgb04-freight
+# Download the TSGB04 Excel file and save to data/raw/hgv_licensing.xlsx
+# The DfT does not provide a live API — this is a manual Excel download only.
 python scripts/04_fetch_hgv_data.py
 python scripts/05_clean_and_merge.py
 python scripts/06_build_disruption_score.py
@@ -228,3 +232,6 @@ python scripts/08_load_to_mysql.py
 ## License
 
 MIT License — free to use with attribution.
+
+All government data used in this project is published under the 
+[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
