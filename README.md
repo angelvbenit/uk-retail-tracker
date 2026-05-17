@@ -48,11 +48,16 @@ disruption score at 55.06, followed closely by Pre-COVID at 53.41 — suggesting
 the UK retail supply chain was already under meaningful strain before the
 pandemic.
 
-The **High Inflation era** (February 2022 – June 2023) counter-intuitively
-recorded the lowest average disruption score at 45.48 — this is because retail
-volumes had partially recovered and imports had stabilised, even as prices
-remained elevated. Price pressure and supply disruption are related but
-distinct signals.
+The **High Inflation** era (February 2022 – June 2023) counter-intuitively 
+recorded the lowest average disruption score at 45.48, despite food 
+inflation peaking at 9.97% YoY. This is mathematically explained by the 
+model's weight structure: Food CPI Premium carries only 25% weight, while 
+Retail Volume Deviation and Import Volume Decline together carry 60% 
+combined weight. By early 2022, post-pandemic retail volumes had recovered 
+strongly and import flows had stabilised, these two dominant signals pulled 
+the composite score downward despite surging prices. This demonstrates a 
+key insight: price inflation and supply availability are decoupled signals 
+in post-crisis economies.
 
 ---
 
