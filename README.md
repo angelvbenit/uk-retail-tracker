@@ -48,7 +48,7 @@ disruption score at 55.06, followed closely by Pre-COVID at 53.41 — suggesting
 the UK retail supply chain was already under meaningful strain before the
 pandemic.
 
-The **High Inflation** era (February 2022 – June 2023) counter-intuitively 
+The **High Inflation era** (February 2022 – June 2023) counter-intuitively 
 recorded the lowest average disruption score at 45.48, despite food 
 inflation peaking at 9.97% YoY. This is mathematically explained by the 
 model's weight structure: Food CPI Premium carries only 25% weight, while 
