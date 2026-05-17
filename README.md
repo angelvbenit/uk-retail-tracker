@@ -177,8 +177,8 @@ uk_supply_chain_tracker/
 │   ├── 06_build_disruption_score.py# Composite score model
 │   ├── 07_arima_forecast.py        # ARIMA forecasting
 │   └── 08_load_to_mysql.py         # MySQL loader
-├── notebooks/
-│   └── exploratory_analysis.ipynb  # EDA and insight generation
+├── eda/
+│   └── exploratory_analysis.py  # EDA and insight generation
 ├── uk_supply_chain_dashboard.pbix  # Power BI dashboard file
 ├── config.py                       # Path configuration
 ├── requirements.txt                # Python dependencies
