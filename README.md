@@ -186,8 +186,9 @@ uk_supply_chain_tracker/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/uk-supply-chain-disruption-tracker.git](https://github.com/YOUR_USERNAME/uk-supply-chain-disruption-tracker.git)
+git clone [https://github.com/angelvbenit/uk-supply-chain-disruption-tracker.git](https://github.com/YOUR_USERNAME/uk-supply-chain-disruption-tracker.git)
 cd uk-supply-chain-disruption-tracker
+
 
 # Create virtual environment
 python -m venv .venv
